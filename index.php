@@ -3,7 +3,12 @@ $is_auth = rand(0, 1);
 
 $user_name = 'Letiz'; // укажите здесь ваше имя
 $categories_list = [
-
+    'boards' => 'Доски и лыжи',
+    'attachment' => 'Крепления',
+    'boots' => 'Ботинки',
+    'clothing' => 'Одежда',
+    'tools' => 'Инструменты',
+    'other' => 'Разное'
 ];
 
 // Массив объявлений
