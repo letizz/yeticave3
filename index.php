@@ -3,7 +3,7 @@ $is_auth = rand(0, 1);
 
 $user_name = 'Letiz'; // укажите здесь ваше имя
 $categories_list = [
-    'boards' => 'Доски и лыжи',
+    'boards' => 'Лол',
     'attachment' => 'Крепления',
     'boots' => 'Ботинки',
     'clothing' => 'Одежда',
