@@ -1,16 +1,3 @@
-<?php
-
-$categories_list = [
-    'boards' => 'Доски и лыжи',
-    'attachment' => 'Крепления',
-    'boots' => 'Ботинки',
-    'clothing' => 'Одежда',
-    'tools' => 'Инструменты',
-    'other' => 'Разное'
-];
-?>
-
-
     <!DOCTYPE html>
     <html lang="ru">
     <head>
@@ -60,7 +47,7 @@ $categories_list = [
 
         <main class="container">
             <?=$page_content?>
-
+        </main>
 
     <footer class="main-footer">
         <nav class="nav">

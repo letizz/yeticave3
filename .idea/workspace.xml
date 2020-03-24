@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="786a9ee6-e029-4714-860f-79dd819e0a3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/layout.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.php" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,15 +34,15 @@
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Рабочий стол/Интенсив Первый сайт за 3 (4) дня - Артем Исламов/Интенсив Первый сайт за 3 (4) дня - Артем Исламов/Files/landingIslamov" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -62,7 +63,11 @@
       <workItem from="1584291145182" duration="111000" />
       <workItem from="1584420229868" duration="505000" />
       <workItem from="1584428144825" duration="5603000" />
-      <workItem from="1584511850561" duration="2795000" />
+      <workItem from="1584511850561" duration="8194000" />
+      <workItem from="1584598658180" duration="7262000" />
+      <workItem from="1584686302795" duration="5462000" />
+      <workItem from="1584895234106" duration="1723000" />
+      <workItem from="1585068096800" duration="561000" />
     </task>
     <servers />
   </component>
@@ -87,13 +92,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2714" y="444" key="NewPhpFileDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584514183208" />
-    <state x="2381" y="163" key="SettingsEditor" timestamp="1584514651348">
+    <state x="2381" y="163" key="SettingsEditor" timestamp="1584693933819">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584514651348" />
-    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584511851549">
+    <state x="2381" y="163" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584693933819" />
+    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584686323555">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584511851549" />
+    <state x="2576" y="345" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1584686323555" />
   </component>
 </project>
